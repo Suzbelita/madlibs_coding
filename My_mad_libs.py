@@ -32,7 +32,7 @@ def easy_quiz():
 #_________________________________________________________________________________________________________________________________________________________________________
 #Here is the code now I'm trying to make. This for loop is supposed to work instead of looong code which I wrote below. (I gonna use this for each quiz, easy medium and hard)
     '''Let i loop through each blank(from __1__ ~ __6__),
-       and ask player to answer with answer options.
+       and ask player to answer suggesting answer options.
        If that input answer was correct, replace the blank with correct word into quiz sentence and prompt player to answer next blank.
        If that was incorrect, one more time player has to think until getting right answer. It's repeated until blank __6__.'''
 
